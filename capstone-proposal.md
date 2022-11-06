@@ -1,5 +1,6 @@
 # Name: Brad Buchholz
 
+# Name of Project: Brad's Photo Gallery
 ## Project Goal: Display my photography 
 
 ### MVP
