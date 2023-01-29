@@ -13,3 +13,7 @@
 #### Saturday 11/19
 * 10am - 1pm Udemy iOS development course 
 * 9pm - 10pm Udemy iOS development course  
+
+#### Saturday 1/28
+* 10am - 1pm Web Dev simplified youtube vidoes about React
+* 2pm -4pm worked on some experimental coding/styling on an older project to learn MUI for React
