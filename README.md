@@ -17,3 +17,9 @@
 #### Saturday 1/28
 * 10am - 1pm Web Dev simplified youtube vidoes about React
 * 2pm -4pm worked on some experimental coding/styling on an older project to learn MUI for React
+
+#### Friday 2/10
+* 4pm-6pm set up new repository for project/initialized new React App
+
+#### Saturday 2/11
+* 10am-1pm worked on figuring out how to setup project on hosted domain 
